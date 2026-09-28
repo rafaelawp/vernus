@@ -1,0 +1,5 @@
+codigoantigo.py é cobaia
+
+main.py não soletra
+
+testedoteste.py só interpreta a última palavra
